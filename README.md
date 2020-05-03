@@ -6,7 +6,7 @@
 
 **1.** Clone the repository
 ```bash
-
+git clone https://github.com/mheerspink75/webpack-config.git
 ```
 
 **2.** Install the npm packages
