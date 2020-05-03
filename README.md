@@ -2,6 +2,8 @@
 
 *A starter template with webpack dependencies pre-configured*
 
+[![Edit webpack-config](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mheerspink75/webpack-config/tree/master/?fontsize=14&hidenavigation=1&theme=dark)
+
 ---
 
 **1.** Clone the repository
