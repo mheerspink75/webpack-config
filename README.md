@@ -49,4 +49,7 @@ npm i file-loader -D
 
 // babel
 npm i @babel/core babel-loader @babel/preset-env -D
+
+// dotenv-webpack
+npm i dotenv-webpack -D
 ```
